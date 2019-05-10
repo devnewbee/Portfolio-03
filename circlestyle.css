@@ -1,0 +1,14 @@
+/* canvas has a limited size*/
+canvas {
+    width: 100%;
+    background-color: black;
+}
+
+/* make canvas take up all the space */
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+
+
